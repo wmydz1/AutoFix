@@ -1,6 +1,15 @@
 # AutoFix
 百分比布局 屏幕适配
 
+```
+dependencies {
+ 
+    compile 'com.android.support:percent:22.2.0'
+ 
+}
+
+```
+
 新的容器有了一些设置百分比的属性，下面我们来了解一下：
 layout_widthPercent
 设置控件宽度为父容器的宽的百分比
